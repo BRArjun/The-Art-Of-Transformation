@@ -5,8 +5,7 @@
   <img src="images/hybrid-vae-gan.png">
 </p>
 
-This package provides reference implementation of the `Hybrid VAE-GAN Architecture for Artistic Style Transfer`
-[paper][].
+This package provides reference implementation of the `Hybrid VAE-GAN Architecture for Artistic Style Transfer` research paper.
 
 This paper builds a novel hybrid VAE-GAN method for image to sketch style transfer and modifies the generator, discriminator, encoder and the training procedure to generate good sketches from the corresponding images of the person.
 
